@@ -18,7 +18,7 @@ Speifying a post category will insert the post as a custom taxonomy type within 
 
 NOTES
 =============================
-This plugin was pretty much written overnight. It works well for the exact instance it was created for, filmfestival.tcm.com, btu leave a lot to be desired for usability. A few ideas:
+This plugin was pretty much written overnight. It works well for the exact instance it was created for, filmfestival.tcm.com, but leaves a lot to be desired for usability. A few ideas:
 
 1. Create a settings page that you can specify the meta data structure and cron settings.
 2. Extend plugin so processed images can be added to any post type.
